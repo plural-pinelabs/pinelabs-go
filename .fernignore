@@ -1,0 +1,3 @@
+# Files Fern's generator must NOT overwrite on regeneration.
+go.mod
+.fernignore
